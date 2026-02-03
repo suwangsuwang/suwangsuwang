@@ -2,7 +2,7 @@
 
 # 设置变量
 USERNAME="suwangsuwang"
-BLOG_URL="https://suwangsuwang.github.io"
+BLOG_URL="https://suwang.dpdns.org"
 README_FILE="README.md"
 TEMP_FILE="temp_readme.md"
 
