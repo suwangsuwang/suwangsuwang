@@ -1,159 +1,173 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=suwang&fontSize=70&animation=twinkling" />
 
-<h1>👋 你好，我是 suwang</h1>
+<!-- HEADER -->
 
-<p>
-    <b>全栈移动端开发者 | 技术博主 | 开源爱好者 | AI 探索者</b>
-  </p>
+<h1 align="center">👋 Hi, I'm suwang</h1>
 
-<p>
-    <a href="https://suwang.dpdns.org/"><img src="https://img.shields.io/badge/博客-https://suwang.dpdns.org-blue?style=flat-square&logo=github" /></a>
-    <a href="https://github.com/suwangsuwang"><img src="https://img.shields.io/badge/GitHub-suwangsuwang-black?style=flat-square&logo=github" /></a>
-    <a href="mailto:suwangsuwang@qq.com"><img src="https://img.shields.io/badge/Email-suwangsuwang@qq.com-red?style=flat-square&logo=qq" /></a>
-    <a href="mailto:suwangsuwang@gmail.com"><img src="https://img.shields.io/badge/Email-suwangsuwang@gmail.com-red?style=flat-square&logo=gmail" /></a>
-  </p>
-</div>
+<p align="center">
+  Full-Stack Mobile Engineer | AI Application Builder | Tech Blogger | Open Source Enthusiast
+</p>
+
+<p align="center">
+  🌐 Blog: https://suwang.dpdns.org ｜ 📍 China ｜ 🧠 Building AI-native development workflow
+</p>
 
 ---
 
-## 🚀 关于我
+## 🧭 About Me
 
-我是一名全栈移动端开发者，热爱编程和技术分享。专注于跨平台移动应用开发，同时也在积极探索 AI Agent 的应用场景。
+I am a mobile-focused full-stack engineer working across iOS, Android, and cross-platform ecosystems.
 
-- 🔭 目前正在探索 **AI Agent** 的使用方法和最佳实践
-- 🌱 持续学习 **SwiftUI Observation** 和现代移动端开发技术
-- 💻 使用 **Jetpack Compose** 和 **Flutter** 构建现代化的移动应用
-- 👯 希望与志同道合的开发者交流学习
-- 💬 欢迎访问我的博客 [https://suwang.dpdns.org](https://suwang.dpdns.org/)
+My current focus is shifting from **pure application development** to **AI-augmented engineering systems**, exploring how AI can become a native part of software development workflows.
 
----
+### 🔭 What I'm working on
 
-## 🛠️ 技术栈
-
-### 📱 移动端开发
-
-<div align="center">
-
-#### iOS 开发
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI Observation](https://img.shields.io/badge/SwiftUI_Observation-FF6B6B?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-#### Android 开发
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
-#### 跨平台开发
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-</div>
-
-### 🤖 AI & 新兴技术
-
-<div align="center">
-
-![AI Agent](https://img.shields.io/badge/AI_Agent-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-### 💻 前端技术
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
-### 🛠️ 开发工具
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Hexo](https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white)
-
-</div>
+- AI Agent-driven development workflows
+- Modern mobile architecture (SwiftUI / Compose / Flutter)
+- Cross-platform engineering scalability
+- AI-assisted coding & automation systems
 
 ---
 
-## 🤖 AI Agent 探索
+## 🧠 Tech Identity
 
-我正在积极探索 AI Agent 的使用方法和应用场景，包括：
-
-- 🔍 **智能代码助手**：利用 AI Agent 提升开发效率
-- 🧠 **自动化工作流**：探索 AI Agent 在开发流程中的应用
-- 🚀 **创新应用场景**：研究 AI Agent 在移动端开发中的可能性
-- 📚 **最佳实践**：总结和分享 AI Agent 的使用经验
-
-> 💡 如果你也在探索 AI Agent，欢迎一起交流学习！
+> I don't just build apps — I build systems where AI helps build apps.
 
 ---
 
-## 📊 GitHub 统计
+## 🛠️ Tech Stack
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suwangsuwang&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=suwangsuwang&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-</div>
+### 📱 Mobile Engineering
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwangsuwang&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-</div>
+**iOS**
 
----
+- Swift
+- SwiftUI
+- SwiftUI Observation
+- Combine
+- Xcode
 
-## 📝 最新博客文章
+**Android**
 
-<!-- BLOG-POST-LIST:START -->
+- Kotlin
+- Java
+- Jetpack Compose
+- Android SDK
 
-- [Redux 入门教程（三）：React-Redux 的用法](https://suwangsuwang.github.io/2019/01/24/Redux-入门教程（三）：React-Redux-的用法/)
-- [Redux 入门教程（二）：中间件与异步操作](https://suwangsuwang.github.io/2019/01/21/Redux-入门教程（二）：-中间件与异步操作/)
-- [Redux 入门教程（一）：基本概念和用法](https://suwangsuwang.github.io/2019/01/18/redux-入门教程（一）md/)
+**Cross-platform**
 
-<!-- BLOG-POST-LIST:END -->
-
-> 📖 更多文章请访问我的博客：[https://suwang.dpdns.org](https://suwang.dpdns.org/)
+- Flutter
+- Dart
+- React Native
 
 ---
 
-## 🎯 项目展示
+### 🌐 Frontend Engineering
 
-<div align="center">
-  
-  <a href="https://github.com/suwangsuwang/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suwangsuwang&repo=your-project-1&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/suwangsuwang/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suwangsuwang&repo=your-project-2&theme=radical&hide_border=true" />
-  </a>
-  
-</div>
+- TypeScript / JavaScript
+- React
+- Redux / Zustand
+- Vue
+- HTML5 / CSS3
 
 ---
 
-## 📈 贡献图
+### 🤖 AI Engineering (Core Focus)
 
-<div align="center">
-  
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=suwangsuwang&theme=radical&hide_border=true)
-  
-</div>
+- AI Agent Design (Tool Use / Planning / Orchestration)
+- LLM Application Development
+- Prompt Engineering (structured + workflow-based)
+- RAG architecture (retrieval augmented generation)
+- AI coding assistants (Cursor / Claude Code / Copilot)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+---
+
+### ⚙️ Backend & Infrastructure
+
+- Spring Boot (learning & applying)
+- RESTful API Design
+- Node.js (basic backend services)
+- Docker (development environment)
+- Git / GitHub / CI basics
+
+---
+
+### 🧰 Engineering Tools
+
+- Xcode / Android Studio / VS Code
+- Git / GitHub
+- Hexo blogging system
+- GitHub Actions (basic automation)
+
+---
+
+## 🤖 AI × Engineering Vision
+
+I am actively exploring how AI changes software development from **tool usage** to **system collaboration**.
+
+### 🧩 Key Directions
+
+**1. AI as Development Partner**
+
+- AI-assisted coding, debugging, refactoring
+- Multi-step reasoning for feature implementation
+
+**2. Workflow Automation**
+
+- Replace repetitive engineering tasks with AI agents
+- Build reproducible AI-driven pipelines
+
+**3. AI-Native Applications**
+
+- Embedding LLM into mobile apps
+- Hybrid architecture: local logic + cloud AI reasoning
+
+**4. Engineering System Evolution**
+
+- From “writing code” → “designing systems with AI”
+- From “manual implementation” → “AI-assisted execution”
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suwangsuwang&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwangsuwang&layout=compact" height="160"/>
+</p>
+
+---
+
+## 🚀 Featured Focus
+
+- 📱 Mobile Architecture Modernization
+- 🤖 AI Agent Engineering Systems
+- ⚙️ Developer Productivity Automation
+- 🧠 LLM Application Engineering
+
+---
+
+## 📝 Latest Blog Posts
+
+- Redux 入门教程（三）：React-Redux 的用法
+- Redux 入门教程（二）：中间件与异步操作
+- Redux 入门教程（一）：基本概念和用法
+
+👉 More: https://suwang.dpdns.org
+
+---
+
+## 🎯 Projects
+
+> (Pin your top 2–4 projects here)
+
+- 📱 Mobile App Project
+- 🤖 AI Agent Experiment Project
+- ⚙️ Automation Tool Project
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=suwang&fontSize=60&animation=twinkling"/>
+</p>
